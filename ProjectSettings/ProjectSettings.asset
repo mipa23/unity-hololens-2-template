@@ -138,7 +138,6 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 862704734010804862, guid: 21dad2629b054ac42822926bd7d810ee, type: 2}
   - {fileID: -3672584910303327613, guid: 55601ec52c41a5e44aee688ff1af9037, type: 2}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -620,7 +619,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 80e5214ff6dfd801
+  metroCertificateNotAfter: 00709f2d0e15da01
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: VRTemplateWMR
